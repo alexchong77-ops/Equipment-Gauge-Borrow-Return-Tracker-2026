@@ -6,7 +6,7 @@ Responsive pin gauge and calibrated-tool borrow/return web app seeded from the s
 
 1. Install Node.js 18 or newer on the server computer.
 2. In this folder, run `node server.js`.
-3. Open `http://127.0.0.1:4317`.
+3. Open `http://0.0.0.0:10000`.
 4. Initial superuser: username `Admin`, password `superadmin123`. On first sign-in, the app requires a new password of at least 12 characters.
 5. Sign in as Admin and register each staff member with a name, unique username, and password. Staff can then sign in and use the tracker. Only Admin can manage accounts.
 6. In **Gauge inventory**, add each gauge’s certificate number and calibration due date before issuing it.
