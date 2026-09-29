@@ -3,7 +3,7 @@ const fs = require('node:fs/promises');
 const path = require('node:path');
 const crypto = require('node:crypto');
 const ROOT=__dirname, DATA=path.resolve(process.env.DATA_DIR||path.join(ROOT,'data')), PHOTOS=path.join(DATA,'photos'), STATE_FILE=path.join(DATA,'state.json');
-const HOST=process.env.HOST||'0.0.0.0', PORT=Number(process.env.PORT||4317);
+const HOST=process.env.HOST||'0.0.0.0', PORT=Number(process.env.PORT||10000);
 const MIME={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.png':'image/png'};
 let state, workCenters=[], queue=Promise.resolve();
 const sessions=new Map(), loginAttempts=new Map();
