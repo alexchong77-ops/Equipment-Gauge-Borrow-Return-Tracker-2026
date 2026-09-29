@@ -1,0 +1,31 @@
+EQUIPMENT & GAUGE BORROW/RETURN TRACKER
+Windows server-PC transfer guide
+
+WHAT IS IN THIS BACKUP
+This archive contains the application source, inventory and work-center lists, current tracker records and settings, saved camera photos, and the logo/background images. The app has no external Node package dependencies; Node.js 18 or newer is required.
+
+RUN IT ON THE NEW SERVER PC
+1. Install Node.js 18 or newer on the new PC. Use the official Node.js installer and keep the option to add Node to PATH enabled. Restart PowerShell after installation.
+2. Use WinZip to extract the entire ZIP to a local folder on the server PC, for example C:\Toolshop\Equipment-Gauge-BorrowReturn-Tracker. Do not extract over an existing tracker folder without keeping a separate backup.
+3. Open PowerShell and run these commands, replacing the example path if you chose a different folder:
+
+   cd 'C:\Toolshop\Equipment-Gauge-BorrowReturn-Tracker'
+   $env:HOST='0.0.0.0'
+   $env:PORT='4317'
+   node server.js
+
+4. If Windows Firewall asks, allow Node.js only on Private networks. If it does not ask, have an administrator create a Private-profile inbound TCP rule for port 4317 in Windows Defender Firewall. Do not expose this port to Public networks or the internet.
+5. On the server PC, open PowerShell in another window and run ipconfig. Find the IPv4 Address under the active Ethernet or Wi-Fi adapter (for example, 192.168.0.25).
+6. On each staff computer, phone, or tablet connected to the same trusted network, open:
+
+   http://SERVER-PC-IP:4317
+
+   Replace SERVER-PC-IP with the IPv4 address from step 5. The sign-in page QR code also points to the tracker address used to open the page.
+7. Sign in with the existing Admin or staff account credentials from the transferred tracker. The archive does not contain passwords in plain text; password hashes and current account records are in data\state.json.
+8. Keep the PowerShell window running. Closing it stops the tracker. To switch over, give staff the new server PC address and stop the old server so people do not create separate records on both PCs.
+
+BACKUPS AND NETWORK NOTES
+- Keep this ZIP somewhere secure. It contains staff and loan records, audit history, calibration data, and camera photos.
+- For future backups, stop the server first, then copy the complete project folder or at minimum the data folder (including data\photos). Keep the old backup until the new server has been confirmed.
+- The tracker stores data on one server PC. Do not run two copies as live servers for the same staff group, and do not run the data folder from a shared network drive.
+- Use a trusted private shop network. For access outside the local network, deploy behind an approved HTTPS service instead of opening this port to the internet.

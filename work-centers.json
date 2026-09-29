@@ -1,0 +1,23 @@
+[
+  {"machine":"CNC 1","workCenter":"CNC MILLING 3 Axis - SR3"},
+  {"machine":"CNC 2","workCenter":"CNC MILLING 3 Axis - V4"},
+  {"machine":"CNC 3","workCenter":"CNC MILLING 3 Axis - L40"},
+  {"machine":"CNC 4","workCenter":"CNC MILLING 3 Axis - L40"},
+  {"machine":"CNC 5","workCenter":"CNC MILLING 4 Axis - L40"},
+  {"machine":"CNC 6","workCenter":"CNC MILLING 3 Axis - L40"},
+  {"machine":"CNC 7","workCenter":"CNC MILLING 4 Axis - L40"},
+  {"machine":"CNC 8","workCenter":"CNC MILLING 4 Axis - HAAS"},
+  {"machine":"CNC 9","workCenter":"CNC MILLING 3 Axis - HAAS"},
+  {"machine":"CNC10","workCenter":"CNC MILLING 4 Axis - HAAS"},
+  {"machine":"CNC11","workCenter":"CNC MILLING 3 Axis - HAAS"},
+  {"machine":"CNC T1","workCenter":"CNC Turning-GLS200"},
+  {"machine":"CNC T2","workCenter":"CNC Turning-GLS200"},
+  {"machine":"CNC T3","workCenter":"CNC Turning - Okuma"},
+  {"machine":"CNC T4","workCenter":"CNC Turn Mill - HwaCheon"},
+  {"machine":"CNC T5","workCenter":"CNC Turn Mill - Mazak"},
+  {"machine":"M1","workCenter":"Conventional milling machine"},
+  {"machine":"L1","workCenter":"conventional lathe machine"},
+  {"machine":"G1","workCenter":"Surface Grinding Machine"},
+  {"machine":"IQC","workCenter":"In Process QC"},
+  {"machine":"ASSM","workCenter":"Tooling & Fixture Assembly"}
+]

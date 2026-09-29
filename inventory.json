@@ -1,0 +1,8226 @@
+[
+  {
+    "id": "PG-01-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "1.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-01-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø1",
+    "size": "2.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "2.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-02-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø2",
+    "size": "3.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "3.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-03-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø3",
+    "size": "4.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "4.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-04-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø4",
+    "size": "5.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "5.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-05-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø5",
+    "size": "6.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "6.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-06-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø6",
+    "size": "7.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "7.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-07-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø7",
+    "size": "8.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "8.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-08-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø8",
+    "size": "9.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "9.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-09-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø9",
+    "size": "10.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-001",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-002",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.01",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-003",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.02",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-004",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.03",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-005",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.04",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-006",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.05",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-007",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.06",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-008",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.07",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-009",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.08",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-010",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.09",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-011",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.10",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-012",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.11",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-013",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.12",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-014",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.13",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-015",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.14",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-016",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.15",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-017",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.16",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-018",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.17",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-019",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.18",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-020",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.19",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-021",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.20",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-022",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.21",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-023",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.22",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-024",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.23",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-025",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.24",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-026",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.25",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-027",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.26",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-028",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.27",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-029",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.28",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-030",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.29",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-031",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.30",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-032",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.31",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-033",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.32",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-034",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.33",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-035",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.34",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-036",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.35",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-037",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.36",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-038",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.37",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-039",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.38",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-040",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.39",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-041",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.40",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-042",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.41",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-043",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.42",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-044",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.43",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-045",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.44",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-046",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.45",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-047",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.46",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-048",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.47",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-049",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.48",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-050",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.49",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-051",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.50",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-052",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.51",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-053",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.52",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-054",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.53",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-055",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.54",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-056",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.55",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-057",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.56",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-058",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.57",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-059",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.58",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-060",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.59",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-061",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.60",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-062",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.61",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-063",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.62",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-064",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.63",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-065",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.64",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-066",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.65",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-067",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.66",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-068",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.67",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-069",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.68",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-070",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.69",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-071",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.70",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-072",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.71",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-073",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.72",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-074",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.73",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-075",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.74",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-076",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.75",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-077",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.76",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-078",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.77",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-079",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.78",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-080",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.79",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-081",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.80",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-082",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.81",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-083",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.82",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-084",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.83",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-085",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.84",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-086",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.85",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-087",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.86",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-088",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.87",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-089",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.88",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-090",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.89",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-091",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.90",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-092",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.91",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-093",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.92",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-094",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.93",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-095",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.94",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-096",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.95",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-097",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.96",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-098",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.97",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-099",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.98",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-100",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "10.99",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "PG-10-101",
+    "type": "Pin Gauge",
+    "group": "Pin Gauge Ø10",
+    "size": "11.00",
+    "unit": "mm",
+    "qty": 1
+  },
+  {
+    "id": "TG-01",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M2",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-02",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M2.5",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-03",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M3",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-04",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M4",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-05",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M5",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-06",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M6",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-07",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M8",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-08",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M10",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "TG-09",
+    "type": "Thread Gauge",
+    "group": "Go / No Go",
+    "size": "M12",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-01",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M2",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-02",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M2.5",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-03",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M3",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-04",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M4",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-05",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M5",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-06",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M6",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-07",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M8",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-08",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M10",
+    "unit": "",
+    "qty": 1
+  },
+  {
+    "id": "CG-09",
+    "type": "Thread Core Hole Gauge",
+    "group": "Plug gauge 6H Go / No Go",
+    "size": "M12",
+    "unit": "",
+    "qty": 1
+  }
+]
